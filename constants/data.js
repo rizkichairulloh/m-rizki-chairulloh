@@ -1,56 +1,56 @@
 const userData = {
-  githubUsername: "manuarora700",
+  githubUsername: "rizkichairulloh",
   name: "Muh Rizki Chairulloh",
   designation: "Mobile Apps Developer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/avatar.jpeg",
   email: "rizkim47@gmail.com",
   phone: "+62 8222 656 4166",
   address: "Klaten, Jawa Tengah, Indonesia",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "Kakeku - Kalkulator Keuangan Keluarga",
+      link: "https://play.google.com/store/apps/details?id=salam.aplikasi.financialcalculate",
+      imgUrl: "/kakeku.png",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Kopinesia - Aplikasi Kasir Gratis Kedai Kopi & UKM",
+      link: "https://play.google.com/store/apps/details?id=salam.aplikasi.kopinesia",
+      imgUrl: "/kopinesia.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
+      title: "Fiberhome eATP",
+      link: "https://play.google.com/store/apps/details?id=com.atp.fiberhome",
+      imgUrl: "/fiberhome.png",
     },
     {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      title: "ATP Tripilar - Untuk Installer",
+      link: "https://play.google.com/store/apps/details?id=com.atp.tripilar",
+      imgUrl: "/tripilar.png",
     },
     {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
+      title: "Moloka - Soap Making Calculator",
+      link: "https://play.google.com/store/apps/details?id=com.aplikasi.salam.molokalye",
+      imgUrl: "/moloka.png",
     },
     {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
+      title: "Energi Masa Depan Web",
+      link: "https://energi-masa-depan-web.vercel.app/",
+      imgUrl: "/energi.png",
     },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+    // {
+    //   title: "Feedmeback",
+    //   link: "https://feedmeback.vercel.app",
+    //   imgUrl: "/feedmeback.png",
+    // },
+    // {
+    //   title: "Devmedium",
+    //   link: "https://devmedium.vercel.app",
+    //   imgUrl: "/devmedium.png",
+    // },
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "Hello, my name is Muhammad Rizki Chairulloh. Nice to meet you nice people! I am Mobile Apps Developer (Flutter and Native Java). Currently working on Sempulur Klaten, Central Java",
     description: [
       `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
@@ -111,6 +111,7 @@ const userData = {
     linkedin: "https://www.linkedin.com/in/muh-rizki-chairulloh-6893306a/",
     github: "https://github.com/rizkichairulloh",
     facebook: "https://www.facebook.com/rizki.gbc",
+    wa: "https://wa.me/6282226564166"
   },
 };
 

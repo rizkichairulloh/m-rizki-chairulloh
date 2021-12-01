@@ -69,6 +69,16 @@ export default function Contact() {
                   {userData.address}
                 </p>
               </div>
+              <a
+                href={userData.socialLinks.wa}
+              >
+                <button
+                  type="submit"
+                  className="bg-blue-500 rounded-md w-1/2 mx-4 mt-8 py-2 text-gray-50 text-xs font-bold"
+                >
+                  Contact Me
+                </button> 
+              </a>
             </div>
             <div className="social-icons flex flex-row space-x-8">
               <a
@@ -141,7 +151,7 @@ export default function Contact() {
               </a>
             </div>
           </div>
-          <form className="form rounded-lg bg-white p-4 flex flex-col">
+          {/* <form className="form rounded-lg bg-white p-4 flex flex-col">
             <label htmlFor="name" className="text-sm text-gray-600 mx-4">
               {" "}
               Your Name
@@ -177,7 +187,7 @@ export default function Contact() {
             >
               Send Message
             </button>
-          </form>
+          </form> */}
         </div>
       </div>
     </section>
