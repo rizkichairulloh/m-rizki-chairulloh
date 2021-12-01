@@ -6,7 +6,7 @@ import userData from "@constants/data";
 export default function Hero() {
   const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6"];
   return (
-    <div className="flex flex-row justify-center items-start overflow-hidden">
+    <div className="flex flex-col lg:flex-row justify-center items-start overflow-hidden">
       {/* Text container */}
 
       <div className="w-full md:w-1/2 mx-auto text-center md:text-left lg:p-10">
@@ -35,7 +35,7 @@ export default function Hero() {
       </div>
       {/* Image container */}
       <div className="lg:block relative w-full md:w-1/2 -mr-40">
-        <div className="w-3/4 ">
+        <div className="w-full mt-10 lg:w-3/4">
           <img src={userData.avatarUrl} alt="avatar" className="shadow h-3/4" />
           <div className="flex flex-row justify-between mt-4">
             <div className="flex flex-row space-x-4">
