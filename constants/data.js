@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
+  name: "Muh Rizki Chairulloh",
+  designation: "Mobile Apps Developer",
   avatarUrl: "/avatar.png",
   email: "manuarorawork@gmail.com",
   phone: "+91 9587738861",
