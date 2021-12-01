@@ -111,7 +111,7 @@ export default function Navbar() {
               )}
             </a>
           </Link> */}
-          <Link href="/contact">
+          {/* <Link href="/contact">
             <a
               className={`text-base  ${
                 router.asPath === "/contact"
@@ -136,7 +136,7 @@ export default function Navbar() {
                 </svg>
               )}
             </a>
-          </Link>
+          </Link> */}
         </div>
 
         <div className="space-x-4 flex flex-row items-center">
@@ -220,21 +220,21 @@ export default function Navbar() {
         </div>
       </div>
       <div className="space-x-8 block md:hidden mt-4">
-        <Link href="/about">
+        {/* <Link href="/about">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             About
           </a>
-        </Link>
+        </Link> */}
         <Link href="/projects">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Projects
           </a>
         </Link>
-        <Link href="/experience">
+        {/* <Link href="/experience">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Experience
           </a>
-        </Link>
+        </Link> */}
         <Link href="/contact">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Contact

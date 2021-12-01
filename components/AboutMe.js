@@ -29,7 +29,7 @@ export default function AboutMe() {
         <div className="pt-20 grid grid-cols-1 md:grid-cols-3 max-w-6xl mx-auto gap-y-20 gap-x-20">
           {/* Social Buttons */}
           <div className="inline-flex flex-col">
-            <div>
+            {/* <div>
               <h1 className="text-xl font-semibold text-gray-700 dark:text-gray-200">
                 Contact
               </h1>
@@ -60,12 +60,12 @@ export default function AboutMe() {
                 </a>{" "}
                 and I'd love to work for you.
               </p>
-            </div>
+            </div> */}
             {/* Social Links */}
-            <h1 className="text-xl font-semibold text-gray-700 mt-8 dark:text-gray-200">
+            {/* <h1 className="text-xl font-semibold text-gray-700 mt-8 dark:text-gray-200">
               Social Links
-            </h1>
-            <div className="mt-4 ml-4">
+            </h1> */}
+            {/* <div className="mt-4 ml-4">
               <div className="flex flex-row justify-start items-center ">
                 <a
                   href={userData.socialLinks.facebook}
@@ -126,10 +126,10 @@ export default function AboutMe() {
                   </p>
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
           {/* Text area */}
-          <div className="col-span-1 md:col-span-2">
+          {/* <div className="col-span-1 md:col-span-2">
             {userData.about.description?.map((desc, idx) => (
               <p
                 key={idx}
@@ -192,7 +192,7 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

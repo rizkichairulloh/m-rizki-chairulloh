@@ -3,9 +3,9 @@ const userData = {
   name: "Muh Rizki Chairulloh",
   designation: "Mobile Apps Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "rizkim47@gmail.com",
+  phone: "+62 8222 656 4166",
+  address: "Klaten, Jawa Tengah, Indonesia",
   projects: [
     {
       title: "Tailwind Master Kit",
@@ -106,11 +106,11 @@ const userData = {
   resumeUrl:
     "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
-    facebook: "https://facebook.com/",
+    instagram: "https://www.instagram.com/rizkichairulloh/",
+    twitter: "https://twitter.com/rizkichairulloh",
+    linkedin: "https://www.linkedin.com/in/muh-rizki-chairulloh-6893306a/",
+    github: "https://github.com/rizkichairulloh",
+    facebook: "https://www.facebook.com/rizki.gbc",
   },
 };
 
