@@ -47,6 +47,11 @@ const userData = {
       link: "https://admin-dev.ecohub.id/#/",
       imgUrl: "/ecohub_admin_2.png",
     },
+    {
+      title: "PLTS Web App",
+      link: "https://plts-657qob8rk-rizkim47.vercel.app/#/",
+      imgUrl: "/plts_web_app.png",
+    },
     // {
     //   title: "Feedmeback",
     //   link: "https://feedmeback.vercel.app",
