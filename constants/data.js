@@ -37,6 +37,16 @@ const userData = {
       link: "https://energi-masa-depan-web.vercel.app/",
       imgUrl: "/energi.png",
     },
+    {
+      title: "Ecohub",
+      link: "https://ecohub.id/#/",
+      imgUrl: "/ecohub_user_3.png",
+    },
+    {
+      title: "Admin Ecohub",
+      link: "https://admin-dev.ecohub.id/#/",
+      imgUrl: "/ecohub_admin_2.png",
+    },
     // {
     //   title: "Feedmeback",
     //   link: "https://feedmeback.vercel.app",
