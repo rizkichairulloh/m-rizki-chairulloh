@@ -52,11 +52,11 @@ const userData = {
       link: "https://plts-657qob8rk-rizkim47.vercel.app/#/",
       imgUrl: "/plts_web_app.png",
     },
-    // {
-    //   title: "Feedmeback",
-    //   link: "https://feedmeback.vercel.app",
-    //   imgUrl: "/feedmeback.png",
-    // },
+    {
+      title: "Celerates",
+      link: "https://celerates.co.id/#/home",
+      imgUrl: "/celerates.png",
+    },
     // {
     //   title: "Devmedium",
     //   link: "https://devmedium.vercel.app",
