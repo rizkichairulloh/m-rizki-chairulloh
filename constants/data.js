@@ -57,6 +57,16 @@ const userData = {
       link: "https://celerates.co.id/#/home",
       imgUrl: "/celerates.png",
     },
+    {
+      title: "Anies Baswedan",
+      link: "https://aniesbaswedan.com/",
+      imgUrl: "/anies.png",
+    },
+    {
+      title: "Onpers Mobile App",
+      link: "https://play.google.com/store/apps/details?id=com.enterkode.onpers",
+      imgUrl: "/onpers.png",
+    },
     // {
     //   title: "Devmedium",
     //   link: "https://devmedium.vercel.app",
