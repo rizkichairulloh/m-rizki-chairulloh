@@ -10,7 +10,7 @@ import userData from "@constants/data";
 export default function Home({ repositories }) {
   return (
     <ContainerBlock
-      title="Muh Rizki Chairulloh - Mobile Apps Developer"
+      title="Muh Rizki Chairulloh - Flutter & Frond End Developer"
       description="This is a template built specifically for my blog - Creating a developer portfolio that gets you a job."
     >
       <Hero />

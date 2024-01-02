@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "rizkichairulloh",
   name: "Muh Rizki Chairulloh",
-  designation: "Mobile Apps Developer",
+  designation: "Flutter Developer & Frond End Developer",
   avatarUrl: "/avatar.jpeg",
   email: "rizkim47@gmail.com",
   phone: "+62 8222 656 4166",
