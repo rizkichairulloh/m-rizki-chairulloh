@@ -48,6 +48,16 @@ const userData = {
       imgUrl: "/ecohub_admin_2.png",
     },
     {
+      title: "Sentuh Tanahku",
+      link: "https://play.google.com/store/search?q=sentuh%20tanahku&c=apps",
+      imgUrl: "/sentuh.png",
+    },
+    {
+      title: "Koota",
+      link: "https://play.google.com/store/search?q=koota&c=apps",
+      imgUrl: "/koota.png",
+    },
+    {
       title: "PLTS Web App",
       link: "https://plts-657qob8rk-rizkim47.vercel.app/#/",
       imgUrl: "/plts_web_app.png",
@@ -61,6 +71,16 @@ const userData = {
       title: "Anies Baswedan",
       link: "https://aniesbaswedan.com/",
       imgUrl: "/anies.png",
+    },
+    {
+      title: "Blog Anies Baswedan",
+      link: "https://blog.aniesbaswedan.com/",
+      imgUrl: "/blog-anies.png",
+    },
+    {
+      title: "Fitnahlagi.com",
+      link: "https://fitnahlagi.com/",
+      imgUrl: "/fitnahlagi.png",
     },
     {
       title: "Onpers Mobile App",
