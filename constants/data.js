@@ -8,6 +8,46 @@ const userData = {
   address: "Klaten, Jawa Tengah, Indonesia",
   projects: [
     {
+      title: "LSP-TDI Web",
+      link: "https://lsptdi.com/",
+      imgUrl: "/lsptdi.png",
+    },
+    {
+      title: "Enterkode Web",
+      link: "https://enterkode.com/",
+      imgUrl: "/enterkode.png",
+    },
+    {
+      title: "Vahana WeB",
+      link: "https://vahana.get-on.top/",
+      imgUrl: "/vahana.png",
+    },
+    {
+      title: "Celerates",
+      link: "https://celerates.co.id/#/home",
+      imgUrl: "/celerates.png",
+    },
+    {
+      title: "Anies Baswedan",
+      link: "https://aniesbaswedan.com/",
+      imgUrl: "/anies.png",
+    },
+    {
+      title: "Blog Anies Baswedan",
+      link: "https://blog.aniesbaswedan.com/",
+      imgUrl: "/blog-anies.png",
+    },
+    {
+      title: "Fitnahlagi.com",
+      link: "https://fitnahlagi.com/",
+      imgUrl: "/fitnahlagi.png",
+    },
+    {
+      title: "Onpers Mobile App",
+      link: "https://play.google.com/store/apps/details?id=com.enterkode.onpers",
+      imgUrl: "/onpers.png",
+    },
+    {
       title: "Kakeku - Kalkulator Keuangan Keluarga",
       link: "https://play.google.com/store/apps/details?id=salam.aplikasi.financialcalculate",
       imgUrl: "/kakeku.png",
@@ -61,31 +101,6 @@ const userData = {
       title: "PLTS Web App",
       link: "https://plts-657qob8rk-rizkim47.vercel.app/#/",
       imgUrl: "/plts_web_app.png",
-    },
-    {
-      title: "Celerates",
-      link: "https://celerates.co.id/#/home",
-      imgUrl: "/celerates.png",
-    },
-    {
-      title: "Anies Baswedan",
-      link: "https://aniesbaswedan.com/",
-      imgUrl: "/anies.png",
-    },
-    {
-      title: "Blog Anies Baswedan",
-      link: "https://blog.aniesbaswedan.com/",
-      imgUrl: "/blog-anies.png",
-    },
-    {
-      title: "Fitnahlagi.com",
-      link: "https://fitnahlagi.com/",
-      imgUrl: "/fitnahlagi.png",
-    },
-    {
-      title: "Onpers Mobile App",
-      link: "https://play.google.com/store/apps/details?id=com.enterkode.onpers",
-      imgUrl: "/onpers.png",
     },
     // {
     //   title: "Devmedium",
