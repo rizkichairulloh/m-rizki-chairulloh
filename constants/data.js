@@ -102,11 +102,11 @@ const userData = {
       link: "https://plts-657qob8rk-rizkim47.vercel.app/#/",
       imgUrl: "/plts_web_app.png",
     },
-    // {
-    //   title: "Devmedium",
-    //   link: "https://devmedium.vercel.app",
-    //   imgUrl: "/devmedium.png",
-    // },
+    {
+      title: "Sumu Pro",
+      link: "https://play.google.com/store/apps/details?id=com.wesclic.sumu",
+      imgUrl: "/sumu.png",
+    },
   ],
   about: {
     title:
@@ -171,7 +171,7 @@ const userData = {
     linkedin: "https://www.linkedin.com/in/muh-rizki-chairulloh-6893306a/",
     github: "https://github.com/rizkichairulloh",
     facebook: "https://www.facebook.com/rizki.gbc",
-    wa: "https://wa.me/6282226564166"
+    wa: "https://wa.me/6282226564166",
   },
 };
 
