@@ -74,7 +74,7 @@ const userData = {
     },
     {
       title: "Energi Masa Depan Web",
-      link: "https://energi-masa-depan-web.vercel.app/",
+      link: "https://energi-masa-depan.vercel.app/",
       imgUrl: "/energi.png",
     },
     {
@@ -106,6 +106,26 @@ const userData = {
       title: "Sumu Pro",
       link: "https://play.google.com/store/apps/details?id=com.wesclic.sumu",
       imgUrl: "/sumu.png",
+    },
+    {
+      title: "Wedding Invitation",
+      link: "https://wedding-fia-fuad.vercel.app/",
+      imgUrl: "/wedding.png",
+    },
+    {
+      title: "Tool Validation",
+      link: "https://tool-validation.vercel.app/dashboard",
+      imgUrl: "/validation.png",
+    },
+    {
+      title: "Easy Ocr Tool",
+      link: "https://ocr-web-app.vercel.app/#/",
+      imgUrl: "/ocr.png",
+    },
+    {
+      title: "Blockchain",
+      link: "https://block-bpn.vercel.app/",
+      imgUrl: "/blockchain.png",
     },
   ],
   about: {
