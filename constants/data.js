@@ -18,6 +18,11 @@ const userData = {
       imgUrl: "/sdit-budiluhur.png",
     },
     {
+      title: "Jaya Barokah",
+      link: "https://jaya-barokah.rizkichairulloh.my.id/",
+      imgUrl: "/jaya-barokah.png",
+    },
+    {
       title: "LSP-TDI Web",
       link: "https://lsptdi.com/",
       imgUrl: "/lsptdi.png",
