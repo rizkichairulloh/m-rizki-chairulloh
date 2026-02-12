@@ -8,6 +8,16 @@ const userData = {
   address: "Klaten, Jawa Tengah, Indonesia",
   projects: [
     {
+      title: "SDIT ANNUR",
+      link: "https://sdit-annur.rizkichairulloh.my.id/",
+      imgUrl: "/sdit-annur.png",
+    },
+    {
+      title: "SDIT Budi Luhur",
+      link: "https://sdit-budi-luhur.rizkichairulloh.my.id/",
+      imgUrl: "/sdit-budiluhur.png",
+    },
+    {
       title: "LSP-TDI Web",
       link: "https://lsptdi.com/",
       imgUrl: "/lsptdi.png",
@@ -18,7 +28,7 @@ const userData = {
       imgUrl: "/enterkode.png",
     },
     {
-      title: "Vahana WeB",
+      title: "Vahana Web",
       link: "https://vahana.get-on.top/",
       imgUrl: "/vahana.png",
     },
