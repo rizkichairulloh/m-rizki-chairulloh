@@ -9,7 +9,7 @@ const userData = {
   projects: [
     {
       title: "Quran Web App",
-      link: "https://quran.rizkichairulloh.my.id/",
+      link: "https://quran-app.rizkichairulloh.my.id/",
       imgUrl: "/quran-web-app.png",
     },
     {
