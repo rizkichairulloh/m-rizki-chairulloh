@@ -8,6 +8,11 @@ const userData = {
   address: "Klaten, Jawa Tengah, Indonesia",
   projects: [
     {
+      title: "Quran Web App",
+      link: "https://quran.rizkichairulloh.my.id/",
+      imgUrl: "/quran-web-app.png",
+    },
+    {
       title: "SDIT ANNUR",
       link: "https://sdit-annur.rizkichairulloh.my.id/",
       imgUrl: "/sdit-annur.png",
